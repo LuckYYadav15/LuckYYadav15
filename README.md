@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/programmer's%20gif.gif" width="100">
+  <img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/programmer's%20gif.gif">
   <br><br>
 
 I'm Lucky Yadav from India, and I'm pursuing B.Tech in CSE from IIIT Dharwad. I really enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on different projects along with the people around me.
