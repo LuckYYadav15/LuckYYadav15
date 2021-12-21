@@ -1,4 +1,4 @@
-### Hi there 👋
+### JAI SHREE KRISHNA 🙏
 
 <!--
 **LuckYYadav15/LuckYYadav15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm Lucky Yadav from India, and I currently I'm persuying B.Tech from https://iiitdwd.ac.in/. I really enjoy learning languages and develop some non-existing outcomes to solve real-life problems. You can checkout my instagram at https://www.instagram.com/utkarshyadav15/.
+- 🔭 I’m currently working on Web Development
+- 🌱 I’m currently learning SQL.
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
