@@ -1,13 +1,5 @@
 # JAI SHREE KRISHNA 🙏
 
-
-I'm Lucky Yadav from India, and I'm pursuing B.Tech from https://iiitdwd.ac.in/. I really enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on different projects along with people around me.
-- 🔭 I’m currently working on Web Development
-- 🌱 I’m currently learning SQL.
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-# JAI SHREE KRISHNA 🙏
-
 I'm Lucky Yadav from India, and I'm pursuing B.Tech in CSE from IIIT Dharwad. I really enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on different projects along with the people around me.
 
 - 🔭 I’m currently working on Web Development And Desktop Assistant 
