@@ -10,7 +10,7 @@
 I'm proudly a citizen of India, pursuing B.Tech in CSE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on different projects along with the people around me.
 
 - 🔭 I’m currently working on Web Development And Desktop Assistant. 
-- 🌱 I’m currently learning 🌿-MongoDB. 
+- 🌱 I’m currently learning 🌿-mongoose. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LuckYYadav15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/utkarshyadav15//)  
