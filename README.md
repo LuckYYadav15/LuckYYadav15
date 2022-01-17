@@ -18,9 +18,9 @@ I'm proudly a citizen of India, pursuing B.Tech in CSE from <a href="https://iii
     I code with
 </h2>
 <p align="center">
-    <a href="https://getbootstrap.com/"><img src="../LuckYYadav15/gifs/bootstrap%20gif.gif" width="100"></a>
-    <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img src="../LuckYYadav15/gifs/c_language_gif.gif" width="100"></a>
-    <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img src="../LuckYYadav15/gifs/c++%20gif.gif" height="100" width="100"></a>
+    <a href="https://getbootstrap.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/bootstrap%20gif.gif" width="100"></a>
+    <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/c_language_gif.gif" width="100"></a>
+    <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/c%2B%2B%20gif.gif" height="100" width="100"></a>
     <a href="https://www.w3schools.com/css/"><img src="../LuckYYadav15/gifs/css_gif.gif" height="100" width="100"></a>
     <a href="https://firebase.google.com/"><img src="../LuckYYadav15/gifs/firebase_gif.gif" height="100" width="100"></a>
     <a href="https://github.com/"><img src="../LuckYYadav15/gifs/git_main_gif.gif" height="100" width="100"></a>
