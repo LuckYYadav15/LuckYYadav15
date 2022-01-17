@@ -1,8 +1,21 @@
 # JAI SHREE KRISHNA 🙏
 
+<head>
+    <script type="text/javascript">
+    ImageArray = new Array();
+    image[0] = "https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/programmer's%20gif.gif";
+    image[1] = "https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/coding_languages_gif.gif";
+
+function getRandomImage() {
+    var num = Math.floor( Math.random() * 2);
+    var img = ImageArray[num];
+    document.getElementById("randImage").textContent = ('<img src="' + 'images/random/' + img + '" width="250px">')
+}
+</script>
+</head>
 <br>
-<p align="center">
-  <img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/programmer's%20gif.gif">
+<p align="center" onload="getRandomImage()">
+  <div id="randImage"></div>
   <br><br>
 </p>
 
