@@ -26,6 +26,7 @@ I'm proudly a citizen of India, pursuing B.Tech in CSE from <a href="https://iii
     <a href="https://github.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/git_main_gif.gif" height="100" width="100"></a>
     <a href="https://www.w3schools.com/html/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/html%20gif.gif" width="100"></a>
     <a href="https://www.javascript.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/js%20logo.gif" width="100"></a>
+    <br>
     <a href="https://in.mathworks.com/products/matlab.html"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/matlab_gif.gif" height="100" width="100"></a>
     <a href="https://www.mongodb.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/mongodb_gif.gif" height="100" width="100"></a>
     <a href="https://nodejs.org/en/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/node_laptop%20gif.gif" height="100" width="100"></a>
