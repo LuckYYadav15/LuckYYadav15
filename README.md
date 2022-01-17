@@ -14,3 +14,20 @@ I'm proudly a citizen of India, pursuing B.Tech in CSE from <a href="https://iii
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LuckYYadav15)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/utkarshyadav15//)  
+
+<h2 align="center">
+    I code with
+</h2>
+<p align="center">
+    <img src="../LuckYYadav15/gifs/bootstrap%20gif.gif" width="100">
+    <img src="../LuckYYadav15/gifs/c_language_gif.gif" width="100">
+    <img src="../LuckYYadav15/gifs/c++%20gif.gif" height="100" width="100">
+    <img src="../LuckYYadav15/gifs/git_main_gif.gif" height="100" width="100">
+    <img src="../LuckYYadav15/gifs/html%20gif.gif" width="100">
+    <img src="../LuckYYadav15/gifs/js%20logo.gif" width="100">
+    <img src="../LuckYYadav15/gifs/node_laptop%20gif.gif" height="100" width="100">
+    <img src="../LuckYYadav15/gifs/python%20gif.gif" width="100">
+    <img src="../LuckYYadav15/gifs/react%20gif.gif" height="100" width="100">
+    <img src="../LuckYYadav15/gifs/sql%20logo.gif" height="100" width="100">
+    <img src="../LuckYYadav15/gifs/vs_gif.gif" width="100">
+</p>
