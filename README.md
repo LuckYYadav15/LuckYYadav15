@@ -35,3 +35,18 @@ I'm proudly a citizen of India, pursuing B.Tech in CSE from <a href="https://iii
     <a href="https://www.mysql.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/sql%20logo.gif" height="100" width="100"></a>
     <a href="https://code.visualstudio.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/vs_gif.gif" width="100"></a>
 </p>
+
+<h2 align="center">📊 Github Statistics</h2>
+  <br/>
+  <a href="https://github.com/LuckYYadav15/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckYYadav15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+
+
+<br/>
+<br/>
+
+<a href="https://github.com/LuckYYadav15/github-readme-activity-graph"><img alt="Lucky's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=LuckYYadav15&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
