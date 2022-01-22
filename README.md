@@ -9,8 +9,8 @@
 <h1>I'm <a  href="https://github.com/LuckYYadav15">Lucky Yadav</a></h1>
 I'm proudly a citizen of India, pursuing B.Tech in CSE from <a href="https://iiitdwd.ac.in/">IIIT Dharwad</a>. I really enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on different projects along with the people around me.
 
-- 🔭 I’m currently working on Web Development And Desktop Assistant. 
-- 🌱 I’m currently learning 🤖-Machine Learning. 
+- 🔭 I’m currently working on Web Development And Desktop Assistant.
+- 🌱 I’m currently learning 🤖-Machine Learning.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/LuckYYadav15) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/utkarshyadav15//)
 
@@ -35,13 +35,20 @@ I'm proudly a citizen of India, pursuing B.Tech in CSE from <a href="https://iii
     <a href="https://www.mysql.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/sql%20logo.gif" height="100" width="100"></a>
     <a href="https://code.visualstudio.com/"><img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/vs_gif.gif" width="100"></a>
 </p>
-
+<br/><br/>
 <h2 align="center">📊 Github Statistics</h2>
   <br/>
-  <a href="https://github.com/LuckYYadav15/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckYYadav15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <p align="left">
+  <a href="https://github.com/LuckYYadav15/github-readme-stats"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckYYadav15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  </a>
+  </p>
+  <p align="right">
+  <a href="https://github.com/LuckYYadav15/github-readme-streak-stats">
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=LuckYYadav15&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+    </a>
+  </p>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-
 
 <br/>
 <br/>
