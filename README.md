@@ -75,7 +75,6 @@ different projects along with the people around me.
 <br />
 <br />
 
-<<<<<<< HEAD
 <br/>
 <br/>
 
