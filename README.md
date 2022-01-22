@@ -77,14 +77,10 @@ different projects along with the people around me.
 
 <a href="https://github.com/LuckYYadav15/github-readme-activity-graph"><img alt="Lucky's Activity Graph"
     src="https://activity-graph.herokuapp.com/graph?username=LuckYYadav15&bg_color=0D1117&color=5BCDEC&line=9dfc03&point=5BCDEC&hide_border=true" /></a>
-
 <br />
 <br />
 
-<!-- <h2 align="center">📊 Github Statistics</h2>
-## ❤ Views and Followers -->
 <h2 align="center"> Pleasure to have you, waiting for your next visit.....</h2>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
   <img src="https://komarev.com/ghpvc/?username=LuckYYadav15">
 </a>
-<!-- <a href="https://github.comLuckYYadav15?tab=followers"><img src="https://img.shields.io/github/followers/LuckYYadav15?label=Followers&style=social" alt="GitHub Badge"></a> -->
