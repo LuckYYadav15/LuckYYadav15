@@ -60,23 +60,24 @@ different projects along with the people around me.
 <br /><br />
 <h2 align="center">📊 Github Statistics</h2>
 <br />
-<p align="left">
-  <a href="https://github.com/LuckYYadav15/github-readme-stats"><img alt="Subham Raoniar's Top Languages"
+<p align="left" display="flex">
+  <a href="https://github.com/LuckYYadav15/github-readme-stats"><img
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuckYYadav15&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </a>
 </p>
 <p align="right">Top languages is matric of public repos and doesn't reflect experience</p>
 <p align="right">
   <a href="https://github.com/LuckYYadav15/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Subham Raoniar's streak"
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats"
       src="https://github-readme-streak-stats.herokuapp.com/?user=LuckYYadav15&theme=black-ice&hide_border=true&stroke=5BCDEC&background=060A0CD0" />
   </a>
 </p>
 <br />
 <br />
 
-<a href="https://github.com/LuckYYadav15/github-readme-activity-graph"><img alt="Lucky's Activity Graph"
-    src="https://activity-graph.herokuapp.com/graph?username=LuckYYadav15&bg_color=0D1117&color=5BCDEC&line=9dfc03&point=5BCDEC&hide_border=true" /></a>
+
+<a href="https://github.com/LuckYYadav15/github-readme-activity-graph"><img  src="https://activity-graph.herokuapp.com/graph?username=LuckYYadav15&bg_color=0D1117&color=5BCDEC&line=9dfc03&point=5BCDEC&hide_border=true" /></a>
+
 <br />
 <br />
 
