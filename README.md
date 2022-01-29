@@ -24,6 +24,8 @@ different projects along with the people around me.
   I code with
 </h2>
 <p align="center">
+  <a href="https://www.adobe.com/in/creativecloud/photography.html"><img
+      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/adobe_photoshop_gif.gif" width="100"></a>
   <a href="https://getbootstrap.com/"><img
       src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/bootstrap%20gif.gif" width="100"></a>
   <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img
@@ -74,6 +76,7 @@ different projects along with the people around me.
 </p>
 <br />
 <br />
+
 
 <br/>
 <br/>
