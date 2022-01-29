@@ -28,8 +28,6 @@ different projects along with the people around me.
       src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/adobe_photoshop_gif.gif" height="100" width="100"></a>
   <a href="https://getbootstrap.com/"><img
       src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/bootstrap%20gif.gif" width="100"></a>
-  <a href="https://getbootstrap.com/"><img
-      src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/bootstrap%20gif.gif" width="100"></a>
   <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img
       src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/c_language_gif.gif" width="100"></a>
   <a href="https://www.javatpoint.com/c-programming-language-tutorial"><img
