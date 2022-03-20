@@ -19,6 +19,8 @@ different projects along with the people around me.
     alt='github' height='40'></a>
 <a href="https://www.instagram.com/utkarshyadav15/"><img
     src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'></a>
+    <a href="https://www.linkedin.com/in/lucky-yadav-19b403232"><img
+    src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 
 <h2 align="center">
   I code with
