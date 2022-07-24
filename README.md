@@ -23,7 +23,7 @@ different projects along with the people around me.
     src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'></a>
 
 <h2 align="center">
-  I code with
+  I Use
 </h2>
 <p align="center">
   <a href="https://www.adobe.com/in/creativecloud/photography.html"><img
