@@ -11,8 +11,8 @@ I'm a proud citizen of India, pursuing B.Tech in CSE from <a href="https://iiitd
 enjoy learning languages and developing some non-existing outcomes to solve real-life problems. I’m excited to work on
 different projects along with the people around me.
 
-- 🔭 I’m currently working on Web Development And Desktop Assistant.
-- 🌱 I’m currently learning Next.js,  🤖-Machine Learning.
+- 🔭 I’m currently working on Web Development and Problem Solving.
+- 🌱 I’m currently learning G-Cloud,  🤖-Machine Learning.
 
 <h2 align="center">Let's put our minds together</h2>
 <a href="https://github.com/LuckYYadav15"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
