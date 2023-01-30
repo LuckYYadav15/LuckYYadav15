@@ -12,7 +12,7 @@ enjoy learning languages and developing some non-existing outcomes to solve real
 different projects along with the people around me.
 
 - 🔭 I’m currently working on Web Development and Problem Solving.
-- 🌱 I’m currently learning G-Cloud,  🤖-Machine Learning.
+- 🌱 I’m currently learning ⛓️-BlockChain,  🤖-Machine Learning.
 
 <h2 align="center">Let's put our minds together</h2>
 <a href="https://github.com/LuckYYadav15"><img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg'
