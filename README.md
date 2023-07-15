@@ -2,7 +2,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/developer_meditation_gif.gif">
+  <img src="https://github.com/LuckYYadav15/LuckYYadav15/blob/main/gifs/coding_languages_gif.gif">
   <br><br>
 </p>
 
